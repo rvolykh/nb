@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: Tutorial steps
       url: /core
     output: web
     title: nb
