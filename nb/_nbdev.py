@@ -3,9 +3,12 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"say_hello": "00_core.ipynb",
-         "HelloSayer": "00_core.ipynb"}
+         "HelloSayer": "00_core.ipynb",
+         "reverse": "01_xpython.ipynb",
+         "distinct": "01_xpython.ipynb"}
 
-modules = ["core.py"]
+modules = ["core.py",
+           "xpython.py"]
 
 doc_url = "https://rvolykh.github.io/nb/"
 

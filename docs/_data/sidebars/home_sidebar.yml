@@ -12,6 +12,9 @@ entries:
     - output: web,pdf
       title: Tutorial steps
       url: /core
+    - output: web,pdf
+      title: nbdev and xeus-python
+      url: /xpython
     output: web
     title: nb
   output: web

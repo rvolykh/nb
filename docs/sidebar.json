@@ -1,6 +1,7 @@
 {
   "nb": {
     "Overview": "/",
-    "Tutorial steps": "/core"
+    "Tutorial steps": "/core",
+    "nbdev and xeus-python": "/xpython"
   }
 }
